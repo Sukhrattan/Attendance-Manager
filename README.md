@@ -177,3 +177,6 @@ For answers to common questions about this code of conduct, see the FAQ at
   <img src="https://contrib.rocks/image?repo=hollermay/hollermay" alt="Contributions" align="left">
   <h3 align="left">Maintained By - Udayan Sharma, Graphics Head Open Source Chandigarh (https://github.com/hollermay)</h3>
 </div>
+# This is heading 1 in md
+## This is heading 2 in md
+### This is heading 3 in md
